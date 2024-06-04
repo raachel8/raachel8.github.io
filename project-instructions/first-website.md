@@ -137,6 +137,8 @@ Above, you'll see this pattern often - notice that we have one `<div>` tag with 
   ```HTML
   <!DOCTYPE HTML>
   <html>
+
+
       <head>
 
       </head>
