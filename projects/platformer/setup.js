@@ -97,4 +97,5 @@ var collectableList = {
   kennedi: { image: "images/collectables/kennedi-head.png" },
   max: { image: "images/collectables/max-head.png" },
   steve: { image: "images/collectables/steve-head.png" },
+  rachel: {image: "https://mail.google.com/mail/u/0?ui=2&ik=ed6aa6fe33&attid=0.1&permmsgid=msg-a:r8534729842529989862&th=18fdee4016f40bb4&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-Aeazd9AY1FFgge7Ae9Qr07V1gYAFqCbbW_SKEWi1pTKFN2avgAVTsk8JrHoNNDFNi5JpsfxMRJigGRjW7lbINNMZJERmCUf5BF_ziGO6DfwIfk-M6h96XMUU&disp=emb&realattid=2F9041E0-79AB-4F43-8BF4-7619D869F710"},
 };
